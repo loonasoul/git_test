@@ -1,0 +1,3 @@
+.headr on
+.mode column
+.show
